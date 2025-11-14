@@ -112,7 +112,7 @@ The application's color scheme is defined using Tailwind CSS utility classes and
   }
 </script>
 ```
-
+Working application URL :- https://document-summary-assistant-dusky.vercel.app/
 1. Install dependencies:
    `npm install`
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
