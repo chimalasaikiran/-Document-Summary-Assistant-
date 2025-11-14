@@ -2,6 +2,8 @@
 
 Transform your PDFs and documents into smart, actionable summaries in seconds. This web application leverages the power of the Google Gemini API's multimodal capabilities to understand and summarize text from various document formats, including PDFs and images.
 
+Working application URL :- https://document-summary-assistant-dusky.vercel.app/
+
 ## ✨ Features
 
 - **Multimodal Document Support**: Upload and process both PDF files and images (e.g., PNG, JPG) containing text.
@@ -112,7 +114,7 @@ The application's color scheme is defined using Tailwind CSS utility classes and
   }
 </script>
 ```
-Working application URL :- https://document-summary-assistant-dusky.vercel.app/
+
 1. Install dependencies:
    `npm install`
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
