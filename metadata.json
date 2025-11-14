@@ -1,0 +1,5 @@
+{
+  "name": "Document Summary Assistant",
+  "description": "An application that takes any document (PDF/Image) and generates smart summaries using the Gemini API. Users can upload files via drag-and-drop or a file picker, choose a summary length (short, medium, long), and view the generated summary.",
+  "requestFramePermissions": []
+}
